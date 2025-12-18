@@ -1,0 +1,96 @@
+{
+    "EASY": [
+        {
+            "name": "ALENA",
+            "time": 13.37,
+            "date": "2025-12-05 19:52:15",
+            "winner": "ALENA"
+        },
+        {
+            "name": "RENATA",
+            "time": 13.37,
+            "date": "2025-12-05 19:52:15",
+            "winner": "ALENA"
+        },
+        {
+            "name": "YOU",
+            "time": 14.69,
+            "date": "2025-12-01 21:14:07"
+        },
+        {
+            "name": "ALENA",
+            "time": 14.72,
+            "date": "2025-12-05 19:35:35",
+            "winner": "ALENA"
+        },
+        {
+            "name": "CALRIO",
+            "time": 14.72,
+            "date": "2025-12-05 19:35:35",
+            "winner": "ALENA"
+        },
+        {
+            "name": "LANA",
+            "time": 15.36,
+            "date": "2025-12-05 18:10:34",
+            "winner": "LANA"
+        },
+        {
+            "name": "CLAIRO",
+            "time": 15.36,
+            "date": "2025-12-05 18:10:34",
+            "winner": "LANA"
+        },
+        {
+            "name": "ALENA",
+            "time": 16.56,
+            "date": "2025-12-05 18:54:01",
+            "winner": "ALENA"
+        },
+        {
+            "name": "CLAIRO",
+            "time": 16.56,
+            "date": "2025-12-05 18:54:01",
+            "winner": "ALENA"
+        },
+        {
+            "name": "ALENA",
+            "time": 17.25,
+            "date": "2025-12-05 19:43:58",
+            "winner": "ALENA"
+        }
+    ],
+    "MID": [
+        {
+            "name": "YOU",
+            "time": 80.53,
+            "date": "2025-12-01 21:12:15"
+        }
+    ],
+    "HARD": [
+        {
+            "name": "NASIHUY",
+            "time": 105.96,
+            "date": "2025-12-06 10:43:38",
+            "winner": "NASIHUY"
+        },
+        {
+            "name": "DIPENJARUY",
+            "time": 105.96,
+            "date": "2025-12-06 10:43:38",
+            "winner": "NASIHUY"
+        },
+        {
+            "name": "UY",
+            "time": 174.59,
+            "date": "2025-12-06 23:03:02",
+            "winner": "JAMS"
+        },
+        {
+            "name": "JAMSUY",
+            "time": 174.59,
+            "date": "2025-12-06 23:03:02",
+            "winner": "CITRA"
+        }
+    ]
+}
